@@ -3,10 +3,10 @@
   "source": "https://github.com/aglio-lab/llm-fine-tuning-tools",
   "license": "CC0-1.0",
   "last_verified": "2026-07-16",
-  "entry_count": 155,
+  "entry_count": 156,
   "category_count": 15,
   "categories": {
-    "End-to-End Fine-Tuning Frameworks and Platforms": 12,
+    "End-to-End Fine-Tuning Frameworks and Platforms": 13,
     "SFT and Core Training Libraries": 9,
     "PEFT, LoRA, and Adapter Tooling": 9,
     "Distributed Training and Training Optimization": 11,
@@ -153,6 +153,17 @@
       "status": "active",
       "primary_url": "https://github.com/pytorch/torchtune",
       "description": "torchtune is a PyTorch-native post-training library organized around hackable recipes for SFT, LoRA/QLoRA, knowledge distillation, preference optimization, quantization-aware training, and distributed execution.",
+      "secondary_links": []
+    },
+    {
+      "id": "end-to-end-fine-tuning-frameworks-and-platforms--overmind",
+      "name": "Overmind",
+      "artifact_type": "platform",
+      "category": "End-to-End Fine-Tuning Frameworks and Platforms",
+      "availability": "open-source",
+      "status": "active",
+      "primary_url": "https://github.com/overmind-core/overmind",
+      "description": "Overmind is an open-source platform that turns production agent traces into fine-tuned models, with trace-sourced datasets, evaluators, supervised LoRA or full fine-tuning of open-weight models, benchmarking against the base model, and OpenAI-compatible serving.",
       "secondary_links": []
     },
     {
